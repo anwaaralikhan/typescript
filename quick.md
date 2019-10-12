@@ -1,1 +1,2 @@
-1- parseInt and parseFloat to convert number to String
+1- parseInt and parseFloat to convert String to number.
+
