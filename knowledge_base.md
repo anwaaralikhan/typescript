@@ -1,2 +1,3 @@
 - === vs ==
 - String
+- parseInt vs parseFloat
