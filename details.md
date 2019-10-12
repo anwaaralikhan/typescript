@@ -5,12 +5,24 @@
 * Can run on any browser and OS.
 
 * TSLint
-* TSLint checks your code for typescript error
+* File Extension : application.ts , this extension [.ts] is converted to [.js i.e application.js]
+* TSLint checks code for typescript error in terms of:
 * * Readability
 * * Maintainability
 * * Functionality
 
+Data Types
+
+As computer stores data in memory as variables, variables needs data type and value.
+
+
 npm install -g typescript
+npm install -g tslint
+install and enable TSLint extension
 
-File Extension : application.ts , this extension [.ts] is converted to [.js i.e application.js]
 
+
+
+* Shortcuts
+* * C+S+B ( to run typescript task in watch mode )
+* * C+S+P ( 
