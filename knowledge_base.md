@@ -1,3 +1,4 @@
 - === vs ==
 - String
 - parseInt vs parseFloat
+- undefined vs null vs Nan
