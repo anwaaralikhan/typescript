@@ -4,6 +4,11 @@
 * Compiles to plain JavaScript with support for old browsers.
 * Can run on any browser and OS.
 
+* TSLint
+* TSLint checks your code for typescript error
+* * Readability
+* * Maintainability
+* * Functionality
 
 npm install -g typescript
 
