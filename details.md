@@ -14,6 +14,7 @@
 Data Types
 
 As computer stores data in memory as variables, variables needs data type and value.
+* [IEE-754] All numbers in Typescript are stored internally as double precision floating point numbers.
 
 
 npm install -g typescript
